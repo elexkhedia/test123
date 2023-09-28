@@ -1,7 +1,5 @@
 package com.test;
 
-import com.sun.corba.se.impl.orbutil.concurrent.SyncUtil;
-
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
